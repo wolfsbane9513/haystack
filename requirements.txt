@@ -1,5 +1,5 @@
 #farm==0.7.1
-git+git://github.com/wolfsbane9513/FARM.git@4f8e2d4#egg=farm
+"git+git://github.com/wolfsbane9513/FARM.git@4f8e2d4#egg=farm"
 --find-links=https://download.pytorch.org/whl/torch_stable.html
 fastapi
 uvicorn
