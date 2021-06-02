@@ -1,5 +1,5 @@
 #farm==0.7.1
-git+git://github.com/wolfsbane9513/FARM.git@master#egg=farm
+'git+git://github.com/wolfsbane9513/FARM.git@master#egg=farm'
 --find-links=https://download.pytorch.org/whl/torch_stable.html
 fastapi
 git+git://github.com/wolfsbane9513/FARM.git@master#egg=farm
